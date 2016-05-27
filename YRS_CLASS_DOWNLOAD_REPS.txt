@@ -7,6 +7,7 @@
 *&---------------------------------------------------------------------*
 
 REPORT  YRS_CLASS_DOWNLOAD.
+*test 2
 ********************************************************************
 * Report for generating XML-file from class
 * Author: Sergey Korolev (slkorolev@mail.ru)
